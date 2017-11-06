@@ -1,0 +1,74 @@
+.avatar-header{
+  height: 30px;
+  width: 100%;
+  position: absolute;
+  background-color: yellow;
+  left: 0;
+  top: 0;
+
+}
+.avatar-header-content{
+  height: 30px;
+  width: 210px;
+  position: absolute;
+  right: 0;
+  top: 0;
+
+}
+.google-search{
+  top: 30px;
+  bottom: 60px;
+  width: 100%;
+  left: 0;
+  background-color: grey;
+  position: absolute;
+}
+.photo{
+  position: fixed;
+  top: 20%;
+  left: 35%;
+}
+.search{
+  font-size: 20px;
+  position: fixed;
+  top: 50%;
+  left: 27%;
+}
+.buttons{
+  font-size: 30px;
+  position: fixed;
+  top: 60%;
+  left: 45%
+}
+.country-footer{
+  height: 30px;
+  width: 100%;
+  bottom: 30px;
+  position: absolute;
+  left: 0;
+  background-color: blue;
+}
+.advertising-link{
+  height: 30px;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  background-color: green;
+  position: absolute;
+}
+.rightadverising-link{
+  height: 30px;
+  bottom: 0;
+  right: 0;
+  width: 200px;
+  background-color: pink;
+  position: absolute;
+}
+.leftadvertising-link{
+  height: 30px;
+  bottom: 0;
+  left: 0;
+  width: 250px;
+  background-color: pink;
+  position: absolute;
+}
